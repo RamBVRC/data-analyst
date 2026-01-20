@@ -1,0 +1,5 @@
+Business Insights – Task 4
+
+1. A small number of top products contribute a significant portion of total revenue, indicating a Pareto (80/20) pattern.
+2. The Rock genre generates the highest revenue among all categories, making it a key focus area for business growth.
+3. Customers from the USA, Canada, and Germany contribute the highest sales, showing strong regional demand.
