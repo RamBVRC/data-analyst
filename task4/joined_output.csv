@@ -1,0 +1,4 @@
+CustomerId,FirstName,LastName,Country,InvoiceId,InvoiceDate,Total
+1,Luís,Gonçalves,Brazil,98,2013-01-10,8.91
+2,Leonie,Köhler,Germany,121,2013-03-15,13.86
+3,François,Tremblay,Canada,143,2013-07-22,5.94
