@@ -1,0 +1,4 @@
+
+1. East region shows consistent customer sales ranking with clear top performers.
+2. Month-over-month analysis highlights a dip in March followed by strong recovery.
+3. Window functions simplify ranking and trend analysis without complex joins.
