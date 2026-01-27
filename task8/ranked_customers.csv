@@ -1,0 +1,5 @@
+customer_id,customer_name,region,total_sales,rank
+C001,Alice,East,12000,1
+C002,Bob,East,9500,2
+C003,Charlie,West,15000,1
+C004,David,West,11000,2
