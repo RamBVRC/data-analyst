@@ -1,0 +1,12 @@
+
+EDA SUMMARY – TASK 10
+
+1. Dataset loaded successfully and structure verified.
+2. SalePrice shows right-skewed distribution.
+3. IQR method used for outlier detection.
+4. Extreme high SalePrice values identified as outliers.
+5. Outliers removed to avoid model bias.
+6. Positive correlation observed between OverallQual and SalePrice.
+
+Conclusion:
+EDA helps understand data behavior and improves data quality before modeling.
