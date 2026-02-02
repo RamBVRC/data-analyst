@@ -1,0 +1,13 @@
+
+A/B TEST FINAL RECOMMENDATION
+
+Null Hypothesis (H0): No difference in conversion between Control and Test.
+Alternative Hypothesis (H1): Test group has different conversion rate.
+
+p-value obtained: 0.8418
+
+Since p-value is greater than 0.05,
+we fail to reject the null hypothesis.
+
+Business Decision:
+No significant improvement observed. Keep Control version.
