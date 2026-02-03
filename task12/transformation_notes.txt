@@ -1,0 +1,15 @@
+
+Task 12 – Power BI Data Transformation Notes
+
+1. Imported dataset into Power BI.
+2. Opened Power Query Editor.
+3. Removed unnecessary columns.
+4. Renamed columns for clarity.
+5. Fixed missing values using remove/replace.
+6. Corrected data types for numerical and date fields.
+7. Created conditional columns (Age Group, Salary Band).
+8. Applied transformations and loaded data model.
+9. Built visuals using transformed data.
+
+Outcome:
+Clean and analysis-ready dataset for dashboard creation.
