@@ -1,0 +1,7 @@
+Task 13 – Insights
+
+1. Technology category generated the highest sales.
+2. West region produced the highest overall profit.
+3. Sales were highest in the fourth quarter.
+
+These insights help identify high-performing categories and regions.
