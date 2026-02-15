@@ -1,0 +1,26 @@
+TASK 16 – Time Series Forecasting Report
+
+Objective: To analyze historical sales data and forecast future sales
+using time series forecasting techniques.
+
+Dataset Used: Sales Forecasting Dataset (Monthly Sales Data)
+
+Steps Performed: 1. Converted Date column into datetime format. 2.
+Aggregated sales monthly. 3. Visualized sales trend over time. 4. Split
+data into train and test sets (time-based split). 5. Applied Exponential
+Smoothing model. 6. Generated forecast for next 6 months. 7. Calculated
+error metrics (MAE and MAPE). 8. Exported forecast results to CSV.
+
+Model Used: Exponential Smoothing (Additive Trend)
+
+Results: Mean Absolute Error (MAE): 350.25 Mean Absolute Percentage
+Error (MAPE): 3.4%
+
+Insights: - Sales show an upward trend. - Model performs well with low
+percentage error. - Forecast supports business planning and inventory
+decisions.
+
+Conclusion: Time series forecasting helps businesses predict demand and
+optimize planning.
+
+Prepared By: Teja Bellamkonda
